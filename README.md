@@ -1,6 +1,3 @@
-# JoonggonaraSearcher
-Web Crawler
-
 # 중고나라 검색기 2.0
 http://164.125.33.74:8008
 
