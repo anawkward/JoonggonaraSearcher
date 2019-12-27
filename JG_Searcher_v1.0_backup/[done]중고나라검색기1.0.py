@@ -78,7 +78,7 @@ important_factor = ["[깨파][^없끗려는워심]{7}|잔상[^없]{7}|번인[^�
 webpage = 'https://cafe.naver.com/joonggonara?iframe_url=/ArticleList.nhn%3Fsearch.clubid=10050146%26search.boardtype=L'
 loop_interval = 0.1 # 페이지 로드 등에 필요한 최소시간(iframe 하나당 약 0.2초)은 기본값으로 포함돼있고, 거기에 추가할 시간을 입력. slow caution 이 안나오는거에 한해서, 높일수록 자원소모가 적음
 # 호스트, 유저명, 비밀번호, 디비 등은 직접 sql 서버를 만들어서 설정해야합니다. 시간 되면 공용 sql 서버 열던지 하겟음..
-def sqlquery(query, host = 'localhost', user = 'root', password = 'sqlpassword', db = 'test'):
+def sqlquery(query, host = 'localhost', user = 'root', password = 'somepassword', db = 'test'):
     conn = pymysql.connect(host, user, password, db, charset='utf8mb4')
     cur = conn.cursor()
     cur.execute(query)
