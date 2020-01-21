@@ -2,7 +2,7 @@
 http://164.125.33.74:8008
 --> 업자, 상태 안좋은, 비싼 매물을 모두 필터링하여 개인판매자의 정상적인 매물을 표시합니다.
 
-![JG_Searcher_v1.0_backup/JG_Demo](JG_Demo.gif)
+![JG Demo](JG_Searcher_v1.0_backup/JG_Demo.gif)
 [Detailed link]
 
 ### 크롤러 상에서 구현된 기능
