@@ -3,7 +3,7 @@ http://164.125.33.74:8008
 --> 업자, 상태 안좋은, 비싼 매물을 모두 필터링하여 개인판매자의 정상적인 매물을 표시합니다.
 
 ![JG Demo](JG_Searcher_v1.0_backup/JG_Demo.gif)
-(2min 30secs)
+(2 minutes)
 
 Detail & latest youtube demonstration
 [https://url.com]
