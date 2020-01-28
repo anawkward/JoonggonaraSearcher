@@ -6,7 +6,7 @@ http://164.125.33.74:8008
 (2 minutes)
 
 Detail & latest youtube demonstration
-[https://www.youtube.com/watch?v=SjDtRnrBl60]
+[http://164.125.33.74:8008/maingate.php]
 
 ### 크롤러 상에서 구현된 기능
 1. 일반 키워드 검색과 정규표현식에 의한 검색을 지원
